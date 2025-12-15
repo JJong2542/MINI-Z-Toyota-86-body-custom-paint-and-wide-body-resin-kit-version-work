@@ -16,4 +16,4 @@
 
 국내에서 확보 가능한 MA-020 Body는 아래와 같다.
 
-![AE86](image/AE86.jpg) ![YARIS](image/ASC.jpg) ![DODGE](image/Dogge.jpg) ![GTR](image/GTR.jpg) ![IMPREZA](image/SBARU.jpg) ![Toyota86](image/Toyota 86 body Kit.jpg) 
+![AE86](image/AE86.jpg) ![YARIS](image/ASC.jpg) ![DODGE](image/Dogge.jpg) ![GTR](image/GTR.jpg) ![IMPREZA](image/SBARU.jpg) ![Toyota86](image/Toyota_86_body_Kit.jpg) 
