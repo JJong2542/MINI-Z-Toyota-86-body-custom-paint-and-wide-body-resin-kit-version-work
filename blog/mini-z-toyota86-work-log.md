@@ -15,3 +15,5 @@
 어쨋던 본론으로 넘어가서. 일단 MA-030EVO2 새시는 MA-020 새시와 Body가 호환된다는 정보를 입수 하고, 본격적으로 Body를 검색하는데, 호환되는 Body 종류가 많지가 않았다. 심지어 맘에 들지도 않았다...ㅠㅠ;
 
 국내에서 확보 가능한 MA-020 Body는 아래와 같다.
+
+![AE86](image/AE86.jpg) ![YARIS](image/ASC.jpg) ![DODGE](image/Dogge.jpg) ![GTR](image/GTR.jpg) ![IMPREZA](image/SBARU.jpg) ![Toyota86](image/Toyota 86 body Kit.jpg) 
