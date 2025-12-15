@@ -24,4 +24,4 @@
 
 WIDE Body Option Part는 홍콩의 "HRC Mini-Z Arena"라는 업체에서 판매하고 있고, 소량으로 몰드 사출해서 판매하는 방식이다. 판매하는 사이트의 이미지는 아래와 같다.
 
-![Wide_Body_Kit_01](image/IMG_6698.jpg) ![Wide_Body_Kit_02](image/Wide Body Kit Part.jpg) 
+![Wide_Body_Kit_01](image/IMG_6698.jpg) ![Wide_Body_Kit_02](image/Wide_Body_Kit_Part.jpg) 
