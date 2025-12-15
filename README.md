@@ -5,28 +5,29 @@
 - 적용 플랫폼: Kyosho MINI-Z MA-030 EVO2
 
 ## 2. 작업 범위
-- Body 가공
-- 도장
-- Detail 작업
-- 배선
-- 마감
-- 조립
+- Body Process
+- Painting
+- Detail 
+- Polishing
+- Assembly
+- Wiring
 
 ## 3. 핵심 문제와 해결
 - 인젝션 Body와 래진 Part의 조립성 문제와 해결 방안
 - 넓은 면의 데칼링 작업에 대한 문제점과 해결 방안
 
 ## 4. 공정별 작업 정리
-### 4-1 바디가공
-### 4-2 도장
-### 4-3 데칼
-### 4-4 마감
-### 4-5 조립
+### 4-1 Body Process
+### 4-2 Painting
+### 4-3 Detail
+### 4-4 Polishing
+### 4-5 Assembly
+### 4-6 Wiring
 
 ## 5. 사용 재료 및 도구
-- 도료
-- 공구
-- 자재
+- Paint
+- Tool
+- Materials
 
 ## 6. 최총 결과
 - 완성 상태 요약
