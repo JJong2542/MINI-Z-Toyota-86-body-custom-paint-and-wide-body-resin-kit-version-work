@@ -17,3 +17,11 @@
 국내에서 확보 가능한 MA-020 Body는 아래와 같다.
 
 ![AE86](image/AE86.jpg) ![YARIS](image/ASC.jpg) ![DODGE](image/Dogge.jpg) ![GTR](image/GTR.jpg) ![IMPREZA](image/SBARU.jpg) ![Toyota86](image/Toyota_86_body_Kit.jpg) 
+
+전부 내가 싫어하는 Body Style 이라...그나마 Toyota 86이 맘에 들었는데...완성 바디는 않파는 사태가!!! ㅠㅠ; 결국 Toyota 86바디를 구매해서 도색하기로 결정!!!
+
+그리고 자료를 찾다 보니. 래진으로 옵션 와이드 바디 Option을 판매한다는 사실도 발견해서, 2개의 Body를 동시에 도색작 들어가기로 결정!!! 땅땅땅!~
+
+WIDE Body Option Part는 홍콩의 "HRC Mini-Z Arena"라는 업체에서 판매하고 있고, 소량으로 몰드 사출해서 판매하는 방식이다. 판매하는 사이트의 이미지는 아래와 같다.
+
+
