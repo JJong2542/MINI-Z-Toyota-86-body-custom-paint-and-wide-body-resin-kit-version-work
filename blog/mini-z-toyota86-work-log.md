@@ -63,9 +63,9 @@ WIDE Body Option Part는 홍콩의 "HRC Mini-Z Arena"라는 업체에서 판매�
 
 ![서페이서](image/서페이서01.jpg)
 
+
    -하지만 역시나~ 서페이서는 서페이서다!! 뿌리고난 다음에 드러나는 단차와 기공들!! ㅠㅠ
 
-![와이드바디_가공](image/가공11.jpg)
    
 
 
