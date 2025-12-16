@@ -142,4 +142,4 @@ WIDE Body Option Part는 홍콩의 "HRC Mini-Z Arena"라는 업체에서 판매�
 
    -비교샷
 
-![본도장](image1/본도장03.jpg)
+![본도장](image1/데칼03.jpg)
