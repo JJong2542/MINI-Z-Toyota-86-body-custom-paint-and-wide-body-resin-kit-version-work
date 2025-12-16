@@ -143,3 +143,10 @@ WIDE Body Option Part는 홍콩의 "HRC Mini-Z Arena"라는 업체에서 판매�
    -비교샷
 
 ![본도장](image1/데칼03.jpg)
+
+   -아쉬운대로 적용했던 데칼 개봉전 사진을 올려 본다.
+
+![본도장](image1/데칼011.jpg)
+![본도장](image1/데칼021.jpg) 
+![본도장](image1/데칼031.jpg)
+![본도장](image1/데칼041.jpg)
