@@ -6,8 +6,10 @@
 
 ## 2. 작업 범위
 - Body Process
+- Surfacer
 - Painting
-- Detail 
+- Decals
+- Clear Coating
 - Polishing
 - Assembly
 - Wiring
@@ -18,11 +20,13 @@
 
 ## 4. 공정별 작업 정리
 ### 4-1 Body Process
-### 4-2 Painting
-### 4-3 Detail
-### 4-4 Polishing
-### 4-5 Assembly
-### 4-6 Wiring
+### 4-2 Surfacer
+### 4-3 Painting
+### 4-4 Decals
+### 4-5 Clear Coating
+### 4-6 Polishing
+### 4-7 Assembly
+### 4-8 Wiring
 
 ## 5. 사용 재료 및 도구
 - Paint
