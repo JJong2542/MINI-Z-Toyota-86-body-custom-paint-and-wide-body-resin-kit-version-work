@@ -1,10 +1,10 @@
 # MINI-Z-Toyota-86-custom-paint-&-wide-body-resin-kit-work
-## 1. Project 개요
-- 대상: Kyosho MINI-Z Body를 Custom 하고자 하는 User 전부
-- 목적: 실제 Body를 Paint하고, 가공하는 과정을 보여줌으로 방법을 공유
-- 적용 플랫폼: Kyosho MINI-Z MA-030 EVO2
+## 1. Project Overview
+- Target: All users wishing to customize the Kyosho MINI-Z body
+- Purpose: To share the process by demonstrating the actual body painting and machining process
+- Applicable Platform: Kyosho MINI-Z MA-030 EVO2
 
-## 2. 작업 범위
+## 2. Scope of work
 - Body Process
 - Surfacer
 - Painting
@@ -14,11 +14,11 @@
 - Assembly
 - Wiring
 
-## 3. 핵심 문제와 해결
-- 인젝션 Body와 래진 Part의 조립성 문제와 해결 방안
-- 넓은 면의 데칼링 작업에 대한 문제점과 해결 방안
+## 3. Key Issues and Solutions
+- Assembly Issues and Solutions for Injection Body and Resin Parts
+- Issues and Solutions for Decaling Large Surfaces
 
-## 4. 공정별 작업 정리
+## 4. Work organization by process
 ### 4-1 Body Process
 ### 4-2 Surfacer
 ### 4-3 Painting
@@ -28,11 +28,11 @@
 ### 4-7 Assembly
 ### 4-8 Wiring
 
-## 5. 최총 결과
-- 완성 상태 요약
-- 총평
+## 5. Final Results
+- Summary of Completion Status
+- Overall Review
 
-## 6. 주의사항
+## 6. Caution
 
-## 작업기는 요기 클릭!!~^^
+## Click here for the workbench!!~^^
 -[작업 기록 1](blog/mini-z-toyota86-work-log.md)
