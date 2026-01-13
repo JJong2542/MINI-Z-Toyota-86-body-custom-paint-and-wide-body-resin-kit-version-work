@@ -35,4 +35,4 @@
 ## 6. Caution
 
 ## Click here for the workbench!!~^^
--[작업 기록 1](blog/mini-z-toyota86-work-log.md)
+-[Work Log](blog/mini-z-toyota86-work-log.md)
