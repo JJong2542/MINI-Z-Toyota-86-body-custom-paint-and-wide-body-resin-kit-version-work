@@ -1,40 +1,40 @@
- Futaba 10PX를 장만하고, 집안에서 조용히 드리프트용으로 가지고 놀만한 Kyosho MA-030EVO2 Kit를 구매 하게 됐다.
+ After purchasing a Futaba 10PX, I decided to purchase a Kyosho MA-030EVO2 kit to quietly play around with at home for drifting.
  
- 문제는 이 Kit은 수신기,타이어 등이 전부 누락된 순수하게 기본 차체 새시만 포함된 Kit이라는 것...
+ The problem is that this kit only includes the basic chassis, without the receiver, tires, etc.
  
- 수신기와 타이어+휠까지는 수월하게 구매하고, Binding까지는 성공 했지만..문제는 Body!!
+ I was able to easily purchase the receiver, tires, and wheels, and even successfully bound them, but... the problem is the body!!
  
- 국내의 왠만한 RC온라인 Shop들은 MA-020용으로 나온 도장된 바디들이 전멸했다는 것!!! ㅠㅠ;
+ Most major online RC shops in Korea are completely sold out of painted bodies for the MA-020!!! ㅠㅠ;
  
- 하여 도장이 않된 바디 중 Toyota 86 바디를 구매 하게 됐고, 검색 중 와이드 바디킷이 존재한다는 사실을 발견!!! *ㅇ*, 홀린듯 구매 해버렸고, 처음에는 대충 그냥 사서 대충 조립하고, 대충 빨리 가지고 놀아야 겠다 라고 착각한 것이 이 글의 시작이다.
+ So, I ended up buying an unpainted Toyota 86 body, and while searching, I discovered that a wide-body kit existed!!! Wow, I was so captivated by the purchase that I initially thought I'd just buy it, assemble it roughly, and have fun with it quickly. That's how this article began.
 
 ![MA-030EVO2](image/IMG_6618.jpg)
 
-그림에서 보이다시피 휠이랑 타이어랑 매칭도 않되있고...ㅎㅎ;
+As you can see in the picture, the wheels and tires don't match...
 
-어쨋던 본론으로 넘어가서. 일단 MA-030EVO2 새시는 MA-020 새시와 Body가 호환된다는 정보를 입수 하고, 본격적으로 Body를 검색하는데, 호환되는 Body 종류가 많지가 않았다. 심지어 맘에 들지도 않았다...ㅠㅠ;
+Anyway, back to the main point. First, I learned that the MA-030EVO2 chassis is compatible with the MA-020 chassis body. I started searching for a suitable body, but there weren't many compatible options. I didn't even like any of them.
 
-국내에서 확보 가능한 MA-020 Body는 아래와 같다.
+The MA-020 Body available in Korea is as follows.
 
 ![AE86](image/AE86.jpg) ![YARIS](image/ASC.jpg) ![DODGE](image/Dogge.jpg) ![GTR](image/GTR.jpg) ![IMPREZA](image/SBARU.jpg) ![Toyota86](image/Toyota_86_body_Kit.jpg) 
 
-전부 내가 싫어하는 Body Style 이라...그나마 Toyota 86이 맘에 들었는데...완성 바디는 않파는 사태가!!! ㅠㅠ; 결국 Toyota 86바디를 구매해서 도색하기로 결정!!!
+All of them are Body Styles that I hate... I liked Toyota 86... but they don't sell finished bodies!!! ㅠㅠ; In the end, I decided to buy a Toyota 86 body and paint it!!!
 
-그리고 자료를 찾다 보니. 래진으로 옵션 와이드 바디 Option을 판매한다는 사실도 발견해서, 2개의 Body를 동시에 도색작 들어가기로 결정!!! 땅땅땅!~
+While researching, I found out that they also sell a wide body option in resin, so I decided to paint both bodies at the same time!!!
 
-WIDE Body Option Part는 홍콩의 "HRC Mini-Z Arena"라는 업체에서 판매하고 있고, 소량으로 몰드 사출해서 판매하는 방식이다. 판매하는 사이트의 이미지는 아래와 같다.
+The WIDE Body Option Part is sold by a Hong Kong company called "HRC Mini-Z Arena," which produces small quantities through injection molding. The image of the sales site is shown below.
 
 ![Wide_Body_Kit_01](image/IMG_6698.jpg) ![Wide_Body_Kit_02](image/Wide_Body_Kit_Part.jpg) 
 
-자~ 그럼 작업을 들어가 보자. 우선 2대를 작업 할것이고, 1대는 와이드 킷 적용으로, 한대는 스텐다드로 올릴 예정이다. 그럼 시~작!~~~
+Okay, let's get started. First, we'll be working on two units. One will be fitted with a wide kit, and the other will be standard. Let's get started!
 
-1. 와이드 바다 가공 작업 (인젝션+래진)
+1. Wide body machining (injection + resin)
    
-   -인젝션 Kit에 몰딩 사출된 래진 킷은 생애 처음 해보는 작업 이기도 하고, 정보도 부족해서 나름 Web의 작례들을 찾아 나름대로 작업을 시작해 보았다.
+   - This is my first time working on a resin kit using molding on an injection kit, and since I lacked information, I looked up examples on the web and started working on it on my own.
 
-   -Web상에서 조립 사례들을 살펴보니, 래진 Kit들은 인젝션과 조립시 단차 및 형상 수정 필수라길래, 래진 킷을 중성세재로 세척을 한 후 약간 뜨겁다 싶을 정도의 물에 담궈. 형상과 단차를 보정했다.
+   -After looking at assembly examples online, I found that resin kits require step and shape correction during injection and assembly. So, I washed the resin kit with a neutral detergent and soaked it in slightly hot water to correct the shape and steps.
 
-   -래진 Kit의 접착은 일반 수지 접착제로는 절대로 불가능 하고, 순간 접착제가 답이라길래, 접착제는 록타이트 401을 활용해서 접착을 진행했다
+   - The resin kit was impossible to bond with regular plastic adhesives, so I needed an instant adhesive, so I used Loctite 401.
 
 ![와이드바디_가공](image/가공01.jpg)
 ![와이드바디_가공](image/가공02.jpg)
@@ -42,11 +42,11 @@ WIDE Body Option Part는 홍콩의 "HRC Mini-Z Arena"라는 업체에서 판매�
 ![와이드바디_가공](image/가공04.jpg)
 ![와이드바디_가공](image/가공05.jpg)
 
-아니나 다를까? 단차,틈새,기포!!! 아~ 아찔하다...ㅠㅠ;
+As expected? Steps, gaps, bubbles!!! Ah~ This is dizzying...
 
-아무튼 접착 후 새시와 매칭을 해본다. (새시와의 간섭을 확인 하기 위한 필수 과정!!)
+Anyway, after gluing, I tried to match it with the Chassis. (This is a necessary step to check for interference with the Chassis!!)
 
-그리고 옆으로 툭!~ 튀어나온 와이드 홴더도 맘에 들지 않아 일체형으로 보이게 사포로 갈아내 버렸다.
+And I didn't like the wide fender that was sticking out to the side, so I sanded it down to make it look like an integrated piece.
 
 ![와이드바디_가공](image/가공06.jpg)
 ![와이드바디_가공](image/가공07.jpg)
@@ -55,68 +55,68 @@ WIDE Body Option Part는 홍콩의 "HRC Mini-Z Arena"라는 업체에서 판매�
 ![와이드바디_가공](image/가공10.jpg)
 ![와이드바디_가공](image/가공11.jpg)
 
-2. 서페이서 작업
+2. Surfacer work
 
-   -어느정도 바디 가공 작업이 끝나고, 패널라인을 새로 파주었다.(서페이서->바탕색->본도색->클리어 까지 가버리면 잘못해서 패널라인이 묻혀 버려 먹선작업이 되지 않는 사태를 방지 하기 위함이다)
+   - After the body processing work was completed to a certain extent, the panel lines were newly carved. (This is to prevent the panel lines from being accidentally buried and not being able to be painted when going through the surfacer->base color->main paint->clear process.)
 
-   -다음으로 서페이서를 올렸는데. 래진이 같이 섞인 본체에는 특별한 서페이서를 사용해야한다. 일명 프라이머!! 다행히 군제에서 프라이머와 서페이서를 섞어서 파는 제품이 있다.
+   -Next, I'll add a surfacer. For the body, which contains resin, a special surfacer is needed. This is called a primer! Fortunately, Gunze sells a product that mixes primer and surfacer.
 
    ![surfacer](image/surfacer01.jpg)
 
 
-   -하지만 역시나~ 서페이서는 서페이서다!! 뿌리고난 다음에 드러나는 단차와 기공들!! ㅠㅠ
+   -But as expected~ a surfacer is a surfacer!! The steps and pores that are revealed after spraying!!
 
 ![서페이서](image/서페이서01.jpg)
 ![서페이서](image/서페이서02.jpg)
 ![서페이서](image/서페이서03.jpg)
 ![서페이서](image/서페이서04.jpg)
 
-   -일단 퍼티로 수정!!! (작업이 전부 끝나고 느끼는 것이지만..래진접합부 및 단차 수정은 순간접착제로 땜빵하는게 답인것 같다..ㅠㅠ)
+   - Correct it with putty first!!! (I realized this after finishing the work, but... I think the secret to fixing resin joints and steps is instant adhesive..)
 
 ![서페이서](image/서페이서5-01.jpg)
 ![서페이서](image/서페이서5-02.jpg)
 ![서페이서](image/서페이서5-03.jpg)
 ![서페이서](image/서페이서5-04.jpg)
 
-   -퍼티 -> 사포 -> 서폐이서의 무한 반복 끝에 드디어 어느정도 결과물이 나왔다!!!
+   -After endless repetition of putty -> sandpaper -> sandpaper, I finally got some results!!!
 
 
 ![서페이서](image/서페이서06-01.jpg)
 ![서페이서](image/서페이서06-02.jpg)
 ![서페이서](image/서페이서06-03.jpg)
    
-3. 도색작업
+3. Painting work
 
-   -그 후에도 자잘한 기포나 틈새가 발견되어 같은 작업을 무한히 반복 후 화이트 서페이서를 도포했고, 드디어 본도색을 입혀 보았다.(본도색에 사용된 도료는 IPP 형광엘로우)
+   -After that, small bubbles and gaps were found, so I repeated the same process endlessly, applied white surfacer, and finally applied the main paint. (The paint used for the main paint was IPP fluorescent yellow)
    ![본도료](image/IPP형광옐로우.jpg)
 
-   -먼저 와이드 바디를 먼저 작업 해보았다.
+   -I worked on the wide body first.
    
 ![본도장](image1/본도장02.jpg)
 ![본도장](image1/본도장05.jpg)
 ![본도장](image1/본도장06.jpg)
 ![본도장](image1/본도장10.jpg)
 
-   -다음으로는 스텐다드 빌딩 버젼 (스텐다드 빌딩 버젼은 딱히 개조 포인트가 없어서, 패널라인만 리파인했고, 서페이서도 일반 군제 서페이서 1000으로 작업 후 화이트 서페이서를 올렸다.)
+   -Next is the standard build version (since there are no specific modification points for the standard build version, I only refined the panel lines, and after working on the surfacer with the gunze surfacer 1000, I put on a white surfacer.)
 ![본도장](image1/본도장03.jpg)
 ![본도장](image1/본도장07.jpg)
 ![본도장](image1/본도장08.jpg)
 ![본도장](image1/본도장10.jpg)
 
-   -뽀너스로 와이드바디와 스텐다드 바디의 비교 샷 및 스텐다드 바디의 새시 핏 샷.
+   - As a bonus, comparison shots of the widebody and standard body, and a chassis fit shot of the standard body.
 
 ![본도장](image1/본도장01.jpg)
 ![본도장](image1/본도장11.jpg)
 ![본도장](image1/본도장12.jpg)
 
-   -다음으로 카본데칼 베이스가 될 본네트와 루프탑, 그리고 립Part 부분에 유광흑색도장으로 본도색은 마무리 했다.(사진 보며 후회되는 부분은 몰딩부분의 흑색 처리인데..마스킹 테이프를 잘게 잘라 작업했더니..망쳤다...다음 부터는 한장을 크게 붙이고, 아트나이프로 재단하는 방법으로 해야겠다 ㅠㅠ)
+   - Next, I finished the main painting with a glossy black paint on the bonnet, rooftop, and lip parts that will be the base for the carbon decals. (The part I regret looking at the pictures is the black treatment on the molding parts. I cut the masking tape into small pieces and worked on it, but I ruined it... Next time, I'll have to stick one large piece and cut it with an art knife. ㅠㅠ)
 
 ![본도장](image1/본도장22.jpg)
 ![본도장](image1/본도장23.jpg)
 ![본도장](image1/본도장24.jpg)
 ![본도장](image1/본도장25.jpg)
 
-  -이번에는 표준바디
+  -This time, the standard body
 
 ![본도장](image1/본도장13.jpg)
 ![본도장](image1/본도장15.jpg)
@@ -124,38 +124,38 @@ WIDE Body Option Part는 홍콩의 "HRC Mini-Z Arena"라는 업체에서 판매�
 ![본도장](image1/본도장18.jpg)
 ![본도장](image1/본도장21.jpg)
 
-  -헤드라이트는 유광흑색 -> 클리어 -> 크롬실버 순으로 도장을 해줬다.
+  -The headlights were painted in the following order: gloss black -> clear -> chrome silver.
 
 ![본도장](image1/헤드라이트.jpg)
 
-4. 데칼작업
+4. Decal work
 
-   -막상 데칼 작업 사진을 올리려고 휴대폰의 사진을 뒤적거려봤더니....카본데칼 빼고는 사진을 찍지 않았다!!!! ㅠㅠ
+   -I was looking through my phone's photos to upload photos of the decal work...but I didn't take any photos except for the carbon decal!!!! 
 
-   -먼저...표준바디...
+   -First...the standard body...
 
 ![본도장](image1/데칼01.jpg)
 
-   -다음으로 와이드 바디....
+   -Next is wide body....
 
 ![본도장](image1/데칼02.jpg)
 
-   -비교샷
+   -Comparison shot
 
 ![본도장](image1/데칼03.jpg)
 
-   -아쉬운대로 적용했던 데칼 개봉전 사진을 올려 본다.
+   -I'm uploading a photo of the decal I applied before opening it.
 
 ![본도장](image1/데칼011.jpg)
 ![본도장](image1/데칼021.jpg) 
 ![본도장](image1/데칼031.jpg)
 ![본도장](image1/데칼041.jpg)
 
-5. 클리어작업
+5. Clearing work
 
-   -모든 마감에 클리어는 기본중에기본!! 먼저 데칼단차를 없에기 위한 클리어 층을 형성 시켜 준다.(사용된 클리어는 IPP 슈퍼클리어/ 래밸링 신너)
+   Clear is a must for all finishes!! First, create a clear layer to eliminate decal gaps. (The clear used is IPP Super Clear/Leveling Thinner.)
 
-   -먼저 와이드 바디
+   - First, wide body
 
 ![본도장](image2/클리어02.jpg)
 ![본도장](image2/클리어03.jpg)
@@ -163,7 +163,7 @@ WIDE Body Option Part는 홍콩의 "HRC Mini-Z Arena"라는 업체에서 판매�
 ![본도장](image2/클리어05.jpg)
 ![본도장](image2/클리어06.jpg)
 
-   -다음은 표준바디
+   -Next is the standard body
 
 ![본도장](image2/클리어07.jpg)
 ![본도장](image2/클리어08.jpg)
@@ -171,9 +171,9 @@ WIDE Body Option Part는 홍콩의 "HRC Mini-Z Arena"라는 업체에서 판매�
 ![본도장](image2/클리어10.jpg)
 ![본도장](image2/클리어11.jpg)
 
-   -대략 2~3일 정도 건조 시킨 후 2000번 샌딩 페이퍼로 데칼 단차를 없에주고, 다음으로 2차 클리어 도포를 해준다.
+   -After drying for about 2-3 days, remove any gaps in the decal with 2000-grit sandpaper, then apply a second clear coat.
 
-   -와이드 바디
+   -Wide body
    
 ![본도장](image2/클리어12.jpg)
 ![본도장](image2/클리어13.jpg)
@@ -181,7 +181,7 @@ WIDE Body Option Part는 홍콩의 "HRC Mini-Z Arena"라는 업체에서 판매�
 ![본도장](image2/클리어15.jpg)
 ![본도장](image2/클리어16.jpg)
 
-   -표준바디
+   -Standard body
 
 ![본도장](image2/클리어17.jpg)
 ![본도장](image2/클리어18.jpg)
@@ -189,23 +189,23 @@ WIDE Body Option Part는 홍콩의 "HRC Mini-Z Arena"라는 업체에서 판매�
 ![본도장](image2/클리어20.jpg)
 ![본도장](image2/클리어21.jpg)
 
-   -또 2~3일 정도 경화 시켜준 후에 마지막 데칼들의 상태 및 단차를 확인 및 수정하고, 마지막 클리어 도포를 해준다. (이번에 알게된 사실인데. IPP슈퍼 클리어 + 래밸링 신너 오렌지 필른 생기지 않는대신에 경화 시간이 무지막지하게 오래 걸린다...물론 우레탄 만큼은 아니지만.ㅋ)
+   -After curing for another 2-3 days, check and correct the condition and gaps of the final decals, and apply the final clear coat. (I just found out that IPP Super Clear + Leveling Thinner doesn't produce orange peel, but it takes an incredibly long time to cure... of course, not as much as urethane. lol)
 
-   -와이드 바디
+   -Wide body
 
 ![본도장](image2/클리어26.jpg)
 
-   -표준바디
+   -Standard body
 
 ![본도장](image2/클리어24.jpg)
 
-6. 폴리싱작업
+6. Polishing work
 
-   -이제부터는 결과물을 보는 시간. 작업은 2000번 사포를 이용해서 클리어층을 평탄화 시키고, 컴파운드로 아무생각 하지 말고 문지르면 되는 작업이다.
+   -Now it's time to see the results. The process involves smoothing the clear layer with 2000-grit sandpaper and then mindlessly rubbing it with compound.
 
-   -다만 바디 킷에 포함되어있는 유리창에 흠집이 많아 이것도 같이 작업해 주었다.
+   -However, the glass window included in the body kit had many scratches, so I worked on that as well.
 
-   -먼저 유리창 작업
+   -First, work on the glass window
 
 ![본도장](image2/폴리싱01.jpg)
 ![본도장](image2/폴리싱04.jpg)
@@ -213,32 +213,32 @@ WIDE Body Option Part는 홍콩의 "HRC Mini-Z Arena"라는 업체에서 판매�
 ![본도장](image2/폴리싱03.jpg)
 ![본도장](image2/폴리싱09.jpg)
 
-   -그리고 바디 폴리싱 작업!!!
+   -And body polishing work!!!
 
-   -먼저 사포 작업 후 거친 컴파운드 작업 후 사진이다.
+   -This is a photo after sanding first and then using a rough compound.
 
 ![본도장](image2/폴리싱05.jpg)
 
-   -다음으로 피니쉬등급의 폴리싱 작업!!
+   -Next is the finishing grade polishing work!!
 
-   -와이드 바디
+   -Wide body
 
 ![본도장](image2/폴리싱08.jpg)
 
-   -표준바디 비교 샷
+   -Standard body comparison shot
 
 ![본도장](image2/폴리싱06.jpg)
 
-   -세척후 건조 전 사진
+   -Photo before drying after washing
 
 ![본도장](image2/폴리싱07.jpg)
 
 
-7. 조립
+7. Assembly
 
-   -이 부분또한 제작자의 개으른 근성이 발휘되어 표준 바디 작업 사진만 존제를 한다...ㅠㅠ
+   -This part was also not filmed due to the creator's lazy nature. Only photos of the standard body work exist.
 
-   -별거 없다 그냥 이것 저것 조립하는 작업 이다.
+   -Nothing special, just assembling this and that.
 
 ![본도장](image2/조립01.jpg)
 
@@ -248,11 +248,11 @@ WIDE Body Option Part는 홍콩의 "HRC Mini-Z Arena"라는 업체에서 판매�
 
 ![본도장](image2/조립04.jpg)
 
-8. 배선
+8. Wiring
 
-   -LED를 적용 했기 때문에 지져분한 전선들이 보기 싫어서 정리 하기로 했다.
+   -I decided to organize the messy wires because I didn't like the look of them since I applied LEDs.
 
-   -1mm 프라판을 재단해서 자작으로 만들었으며, 접착은 일반 수지 접착제와 무수지 접착제를 병행하며 고정 시켰다.
+   - I made it myself by cutting a 1mm thick plastic plate and glued it using both regular glue and instant adhesive for plastic.
 
 
 ![본도장](image2/배선02.jpg)
@@ -263,11 +263,11 @@ WIDE Body Option Part는 홍콩의 "HRC Mini-Z Arena"라는 업체에서 판매�
 
 ![본도장](image2/배선04.jpg)
 
-9. 최종 작업
+9. Final work
 
-   -조립을 끝내고 최종 왁싱 작업을 마쳤다.
+   - Assembly is complete and final waxing is done.
    
-   -대략 작업 끝나기 까지 1개월 정도 소요 된듯 하다. 물론 대부분이 도료 및 클리어 경화 시간이 잡아 먹었지만. 나름 전투 바디 작업 치고는 너무 퀄리티가 높아져 버려서 장착하고 굴렸을떄 부담 되기는 하다..ㅎㅎ;
+   It took about a month to complete, mostly due to drying time for the paint and clear coat. For a road-going car paint job, the quality was so good that it was a real shame to install it and drive it.
 
 ![본도장](image2/최종01.jpg)
 
@@ -296,9 +296,9 @@ WIDE Body Option Part는 홍콩의 "HRC Mini-Z Arena"라는 업체에서 판매�
 ![본도장](image2/최종13.jpg)
 
 
-**주의사항!!!이 있다**
--클리어 완전 경화 까지는 되도록 완성후라도 일정 기간 동안은 방치시켜 주기를 추천한다.
--그렇지 않고 보관 잘못하면 아래 사진과 같은 참사가 벌어진다.ㅋㅋㅋ
+**There is a caution!!!**
+-It is recommended to leave it for a certain period of time even after completion until the clear is completely hardened.
+-Otherwise, if you store it incorrectly, a disaster like the one in the photo below will occur. Hahaha
 
 ![본도장](image3/케이스사고02.jpg)
 ![본도장](image3/케이스사고.jpg)
